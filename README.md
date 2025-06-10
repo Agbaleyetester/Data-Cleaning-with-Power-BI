@@ -1,7 +1,7 @@
 
 # Data-Cleaning-with-Power-BI
 
-
+![6388555](https://github.com/user-attachments/assets/99d46176-dff5-47b7-a966-a700fa686410)
 
 
 ### Project Overview
@@ -49,3 +49,6 @@ EDA involved exploring the Cafe sales data to answer key question, such as;
 - What is the Revenue by Payment Methods 
 - What is the Revenue by Location 
 - Trends of Revenue by Month
+
+![Screenshot (10)](https://github.com/user-attachments/assets/6efd92d9-a611-4167-acf5-cdb8ffab4a64)
+
